@@ -1,6 +1,6 @@
 ## 超级管理员配置
 Administrators:
-  - 'wxid_7bizfilssbwi22'
+  - 'wxid_g2qj1e599s2512'
 
 ## 系统配置
 System_Config:
@@ -49,7 +49,7 @@ Custom_KeyWord:
 ## 自定义各种消息 \n换行
 Custom_Msg:
   # 加好友后回复
-  AcceptFriend_Msg: '你好, 我是NGC660安全实验室开发的微信机器人, 你可以叫我NGCBot! 私聊我即可进行智能对话哦[爱心]~~~ ~~~'
+  AcceptFriend_Msg: '你好, 我是弗兰克开发的微信机器人, 你可以叫我贾维斯! 私聊我即可进行智能对话哦[爱心]~~~ ~~~'
 
 
 ## 管理功能关键词配置
