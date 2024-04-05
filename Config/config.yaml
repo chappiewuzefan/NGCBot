@@ -256,7 +256,7 @@ Function_Key_Word:
 Api_Server:
   Api_Config:
     # 天行Key
-    Key: ''
+    Key: '7de2ce9891838332e960947d2395d48f'
     # Somd5 Key
     Somd5_Key: ''
     # 微步Key
