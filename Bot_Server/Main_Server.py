@@ -63,11 +63,11 @@ class Main_Server:
             userInfo = self.wcf.get_user_info()
             # 用户信息打印
             cprint.info(f"""
-            \t========== NGCBot V2.0 ==========
+            \t========== 贾维斯 V2.0 ==========
             \t微信名：{userInfo.get('name')}
             \t微信ID：{userInfo.get('wxid')}
             \t手机号：{userInfo.get('mobile')}
-            \t========== NGCBot V2.0 ==========       
+            \t========== 贾维斯 V2.0 ==========       
             """.replace(' ', ''))
 
     # 处理接收到的消息
